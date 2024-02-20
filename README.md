@@ -20,6 +20,12 @@ N/A
 - The Invite a Friend tab will allow automatic emails.
 - Hosts and guests information being input by the host will fill the content of the email.
 
+## Screenshot
+![alt text](<Images/Group Project Meep .png>)
+
+## Deployed URL
+ https://abhuraya.github.io/Group-Project-Meep/
+
 
 ## Credits
 
